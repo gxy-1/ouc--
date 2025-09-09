@@ -1,0 +1,27 @@
+{
+  "libVersion": "3.10.0",
+  "projectname": "miniprogram-8",
+  "setting": {
+    "urlCheck": true,
+    "coverView": true,
+    "lazyloadPlaceholderEnable": false,
+    "skylineRenderEnable": false,
+    "preloadBackgroundData": false,
+    "autoAudits": false,
+    "showShadowRootInWxmlPanel": true,
+    "compileHotReLoad": true
+  },
+  "condition": {
+    "miniprogram": {
+      "list": [
+        {
+          "name": "game",
+          "pathName": "pages/game/game",
+          "query": "level=0",
+          "scene": null,
+          "launchMode": "default"
+        }
+      ]
+    }
+  }
+}
